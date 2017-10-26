@@ -1,0 +1,10 @@
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Resource1.resources
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\GYoffe\Downloads\C#\Visual Studio 2012Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
